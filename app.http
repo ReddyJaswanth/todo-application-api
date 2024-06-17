@@ -1,0 +1,9 @@
+
+
+GET http://localhost:3000/agenda/?date=2012-11-9
+
+
+GET http://localhost:3000/todos/?priority=HIGH
+GET http://localhost:3000/agenda/?date=2012-15-11
+
+
